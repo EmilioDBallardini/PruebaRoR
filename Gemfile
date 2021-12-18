@@ -46,6 +46,12 @@ gem 'hirb'
 
 gem 'devise'
 
+gem 'strong_password'
+
+gem 'webpacker'
+
+gem 'bootstrap', '~> 5.1.3'
+
 
 # Use Sass to process CSS
 # gem "sassc-rails"
